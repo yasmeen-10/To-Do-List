@@ -1,0 +1,49 @@
+body {
+    background-color: cyan;
+}
+
+h1 {
+    text-align: center;
+    font-size: 70px;
+    color: blue;
+    margin-top: 150px;
+}
+
+.container {
+    padding: 20px;
+    border: 1px solid black;
+    width: 40%;
+    margin: 400px auto;
+}
+
+.container .input {
+    width: 500px;
+    height: 50px;
+}
+
+.container .btn {
+    width: 90px;
+    height: 60px;
+}
+
+.container ul {
+    list-style: none;
+    padding: 0px;
+}
+
+.container li {
+    color: blue;
+    font-size: 40px;
+}
+
+.container li a {
+    float: right;
+    color: blue;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.container #error {
+    color: red;
+    font-size: 34px;
+}
